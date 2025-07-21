@@ -2,7 +2,7 @@ Active Directory Mega Project</h1>
 
 
 <h2>Description</h2>
-Project consists of an cybesrcurity project with hunting down an attacker from as Linux VM on a host Windows VM.
+Project consists of an cybersecurity project with hunting down an attacker from as Linux VM on a host Windows VM.
 <br />
 
 
