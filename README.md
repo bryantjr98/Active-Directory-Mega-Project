@@ -17,7 +17,7 @@ Project consists of an cybersecurity project with hunting down an attacker from 
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10</b>
 
 <h2>Project walk-through:</h2>
 
