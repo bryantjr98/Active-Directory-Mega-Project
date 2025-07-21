@@ -1,4 +1,4 @@
-<h1>JWipe - Active Directory Mega Project</h1>
+Active Directory Mega Project</h1>
 
 
 <h2>Description</h2>
