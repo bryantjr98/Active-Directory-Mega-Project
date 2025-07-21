@@ -8,9 +8,10 @@ Project consists of an cybersecurity project with hunting down an attacker from 
 
 <h2>Environments and Utilities Used</h2>
 
-- <b>Active Directory</b> 
+- <b>Active Directory</b>
+- <b>Ubuntu Server</b>
+- <b>Kali Linux</b>
 - <b>PowerShell</b> 
-- <b>Kali Linux</b> 
 - <b>Oracle VirtualBox</b>
 - <b>Lucidchart</b>
 
