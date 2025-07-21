@@ -10,14 +10,13 @@ Project consists of an cybersecurity project with hunting down an attacker from 
 
 - <b>Active Directory</b>
 - <b>Ubuntu Server</b>
+- <b>Windows 10</b>
 - <b>Kali Linux</b>
 - <b>PowerShell</b> 
 - <b>Oracle VirtualBox</b>
 - <b>Lucidchart</b>
 
-<h2>Environments Used </h2>
 
-- <b>Windows 10</b>
 
 <h2>Project walk-through:</h2>
 
