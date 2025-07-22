@@ -41,8 +41,9 @@ Powershell Script for Mass User Addition:  <br/>
 
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+1051 Users Imported (may take some time):  <br/>
+<img width="1029" height="774" alt="image" src="https://github.com/user-attachments/assets/7433897d-624a-454f-91d4-f17f1eaa0850" />
+
 <br />
 <br />
 Sanitization complete:  <br/>
