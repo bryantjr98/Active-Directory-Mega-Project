@@ -2,7 +2,7 @@ Active Directory Project</h1>
 
 
 <h2>Description</h2>
-Project consists of an cybersecurity project with hunting down an attacker from as Linux VM on a host Windows VM.
+Configured GPO, as well as domain, gateway, IP addresses, and DHCP in Active Directory server. 
 <br />
 
 
@@ -26,12 +26,14 @@ Logical Diagram: <br/>
 
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Active Directory Dashboard:  <br/>
+<img width="1027" height="772" alt="image" src="https://github.com/user-attachments/assets/a84ed732-c789-48ac-94bc-6205971e9756" />
+
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+1000+ Users including myself: <br/>
+<img width="1027" height="773" alt="image" src="https://github.com/user-attachments/assets/cfb09799-6d66-4878-916b-002981898fe7" />
+
 <br />
 <br />
 Confirm your selection:  <br/>
