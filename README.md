@@ -41,17 +41,13 @@ Powershell Script for Mass User Addition:  <br/>
 
 <br />
 <br />
-1051 Users Imported (may take some time):  <br/>
-<img width="1029" height="774" alt="image" src="https://github.com/user-attachments/assets/7433897d-624a-454f-91d4-f17f1eaa0850" />
+1051 Users Imported:  <br/>
+<img width="1025" height="771" alt="image" src="https://github.com/user-attachments/assets/0b79de2f-275f-4773-8836-2bf2b3c6b3e8" />
+
 
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 
 <!--
