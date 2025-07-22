@@ -36,8 +36,9 @@ Active Directory Dashboard:  <br/>
 
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Powershell Script for Mass User Addition:  <br/>
+<img width="1033" height="774" alt="image" src="https://github.com/user-attachments/assets/a013ac09-91f1-4cf4-a21d-25d9948260f2" />
+
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
