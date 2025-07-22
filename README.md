@@ -20,7 +20,7 @@ Project consists of an cybersecurity project with hunting down an attacker from 
 
 <p align="center">
 Logical Diagram: <br/>
-<img width="2936" height="1273" alt="AD Project Diagram" src="https://github.com/user-attachments/assets/185ed896-9351-45b7-9375-dbf6a9184e3c" />
+<img width="2000" height="1000" alt="AD Project Diagram" src="https://github.com/user-attachments/assets/185ed896-9351-45b7-9375-dbf6a9184e3c" />
 
 
 <br />
