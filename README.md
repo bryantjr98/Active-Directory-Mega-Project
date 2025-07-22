@@ -1,4 +1,4 @@
-Active Directory Mega Project</h1>
+Active Directory Project</h1>
 
 
 <h2>Description</h2>
@@ -9,9 +9,7 @@ Project consists of an cybersecurity project with hunting down an attacker from 
 <h2>Environments and Utilities Used</h2>
 
 - <b>Active Directory</b>
-- <b>Ubuntu Server</b>
 - <b>Windows 10</b>
-- <b>Kali Linux</b>
 - <b>PowerShell</b> 
 - <b>Oracle VirtualBox</b>
 - <b>Lucidchart</b>
@@ -22,7 +20,8 @@ Project consists of an cybersecurity project with hunting down an attacker from 
 
 <p align="center">
 Logical Diagram: <br/>
-<img width="2000" height="1500" alt="MyDFIR AD Splunk Project Diagram" src="https://github.com/user-attachments/assets/d889cef9-d8fa-4d92-a189-dabfca26509c" />
+<img width="2936" height="1273" alt="AD Project Diagram" src="https://github.com/user-attachments/assets/185ed896-9351-45b7-9375-dbf6a9184e3c" />
+
 
 <br />
 <br />
